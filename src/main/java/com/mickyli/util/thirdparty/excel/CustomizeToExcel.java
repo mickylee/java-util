@@ -27,7 +27,7 @@ import org.apache.poi.xssf.usermodel.XSSFFont;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
-import com.mickyli.util.j2se.RandomUtils;
+import com.mickyli.util.java.RandomUtils;
 import com.mickyli.util.thirdparty.gson.GsonTools;
 
 /**

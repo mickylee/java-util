@@ -19,7 +19,7 @@ import org.apache.poi.xssf.streaming.SXSSFWorkbook;
 import org.apache.poi.xssf.usermodel.XSSFCellStyle;
 import org.apache.poi.xssf.usermodel.XSSFColor;
 
-import com.mickyli.util.j2se.ReflectUtils;
+import com.mickyli.util.java.ReflectUtils;
 
 /**
  * 根据Bean上的Excel注解写入到Excel

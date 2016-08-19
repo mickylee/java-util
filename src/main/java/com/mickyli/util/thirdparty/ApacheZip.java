@@ -12,8 +12,6 @@ import org.apache.tools.zip.ZipEntry;
 import org.apache.tools.zip.ZipOutputStream;
 /**
  * 文件压缩工具类
- * @author <a href="http://www.xdemo.org">xdemo.org</a>
- * 2015年2月28日
  */
 /**
  * 压缩文件

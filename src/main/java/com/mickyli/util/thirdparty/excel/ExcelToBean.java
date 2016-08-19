@@ -22,7 +22,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import com.mickyli.util.j2se.ReflectUtils;
+import com.mickyli.util.java.ReflectUtils;
 
 /**
  * Excel内容转化成Bean

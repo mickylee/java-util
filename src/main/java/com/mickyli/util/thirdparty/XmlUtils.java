@@ -8,8 +8,8 @@ import java.util.List;
 import org.simpleframework.xml.Serializer;
 import org.simpleframework.xml.core.Persister;
 
-import com.mickyli.util.bean.Order;
-import com.mickyli.util.bean.User;
+import com.mickyli.util.java.vo.Order;
+import com.mickyli.util.java.vo.User;
 
 
 /**

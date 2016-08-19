@@ -10,7 +10,7 @@ import java.io.UnsupportedEncodingException;
 import java.io.Writer;
 import java.util.Locale;
 
-import com.mickyli.util.j2se.StringUtils;
+import com.mickyli.util.java.character.StringUtils;
 
 import freemarker.core.ParseException;
 import freemarker.template.Configuration;
